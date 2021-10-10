@@ -18,9 +18,9 @@ const steps = [
     id: "3",
     options: [
       { value: 1, label: "1234", trigger: "5" },
-      { value: 2, label: "1356", trigger: "3" },
-      { value: 3, label: "2579", trigger: "3" },
-      { value: 4, label: "3379", trigger: "3" }
+      { value: 2, label: "1356", trigger: "4" },
+      { value: 3, label: "2579", trigger: "4" },
+      { value: 4, label: "3379", trigger: "4" }
     ]
   },
   {
